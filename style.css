@@ -1,8 +1,25 @@
-body{
-    background-color: brown;
+*{
+    margin: 0;
+    padding: 0;
 }
 
 
+
+
+
+body{
+    background-color: brown;
+color:black;
+margin: 0px;
+margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 2px  rgb(45, 18, 199);
+    margin: 20px;
+    font-size: 32px;
+    color: black;
+}
 
 
 .capa{
@@ -13,4 +30,8 @@ body{
 #heroi{
     display:flex ;
     padding-left: 200;
+}
+
+.videos{
+    display: flex;
 }
